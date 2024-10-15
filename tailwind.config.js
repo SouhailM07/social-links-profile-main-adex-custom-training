@@ -3,7 +3,7 @@
   theme: {
     extend: {
       colors: {
-        Green: '#78ff0d',
+        Green: 'hsl(75, 94%, 57%)',
         White: '#ffffff',
         Grey700: '#333333',
         Grey800: '#1f1f1f',

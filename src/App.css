@@ -9,3 +9,19 @@
 html {
   @apply text-[20px] font-[inter];
 }
+
+body {
+  @apply bg-Grey900 text-white;
+}
+
+.flexCenter {
+  @apply flex justify-center items-center;
+}
+
+.flexBetween {
+  @apply flex justify-between items-center;
+}
+
+.b {
+  @apply border-2 border-green-400;
+}
